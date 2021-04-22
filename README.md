@@ -1,2 +1,2 @@
 # ChatApp
-Using PHP with MySQL &amp; JavaScript Ajax
+This is a simple chat app using PHP with MySQL &amp; JavaScript Ajax
